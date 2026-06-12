@@ -9,3 +9,5 @@ Fernandes, K., Vinagre, P., Cortez, P., & Sernadela, P. (2015). Online News Popu
 Seoul Bike Sharing Demand [Dataset]. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5F62R.
 
 ## Logistic Regression
+
+Will Cukierski. Titanic - Machine Learning from Disaster. https://kaggle.com/competitions/titanic, 2012. Kaggle.
