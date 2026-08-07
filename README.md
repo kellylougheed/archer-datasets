@@ -11,3 +11,7 @@ Seoul Bike Sharing Demand [Dataset]. (2020). UCI Machine Learning Repository. ht
 ## Logistic Regression
 
 Will Cukierski. Titanic - Machine Learning from Disaster. https://kaggle.com/competitions/titanic, 2012. Kaggle.
+
+## Text Classification
+
+Poe vs. Austen
